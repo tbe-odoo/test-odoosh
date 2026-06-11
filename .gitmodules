@@ -1,3 +1,3 @@
 [submodule "test-odoo-sh"]
-	path = /home/odoo/src/paas/
+	path = test-odoo-sh
 	url = git@github.com:tbe-odoo/test-odoo-sh.git
