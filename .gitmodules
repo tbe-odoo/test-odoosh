@@ -1,7 +1,3 @@
-[submodule "paas"]
-    path = /home/odoo/src/paas
-    url = /home/odoo/src/paas
-
 [submodule "paas_from_github"]
     path = paas_from_github
     url = git@github.com:odoo/paas.git
