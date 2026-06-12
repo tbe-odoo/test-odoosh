@@ -2,3 +2,10 @@
     path = /home/odoo/src/paas
     url = /home/odoo/src/paas
 
+[submodule "paas_from_github"]
+    path = paas_from_github
+    url = git@github.com:odoo/paas.git
+
+[submodule "internal_from_github"]
+    path = internal_from_github
+    url = git@github.com:odoo/internal.git
