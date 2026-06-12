@@ -1,0 +1,4 @@
+[submodule "paas"]
+    path = /home/odoo/src/paas
+    url = /home/odoo/src/paas
+
