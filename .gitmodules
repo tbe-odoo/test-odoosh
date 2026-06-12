@@ -1,7 +1,7 @@
 [submodule "paas_from_github"]
     path = paas_from_github
-    url = git@github.com:odoo/paas.git
+    url = git@140.82.121.3:odoo/paas.git
 
 [submodule "internal_from_github"]
     path = internal_from_github
-    url = git@github.com:odoo/internal.git
+    url = git@140.82.121.3:odoo/internal.git
