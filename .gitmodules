@@ -1,7 +1,9 @@
 [submodule "paas_from_github"]
     path = paas_from_github
     url = git@140.82.121.3:odoo/paas.git
+    branch = master
 
 [submodule "internal_from_github"]
     path = internal_from_github
     url = git@140.82.121.3:odoo/internal.git
+    branch = master
